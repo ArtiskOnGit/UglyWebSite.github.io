@@ -1,0 +1,65 @@
+a:link{
+color:DeepPink ;
+
+}
+
+a:visited{
+color:DeepPink ;
+}
+
+a:hover{
+color:Cadetblue;
+}
+
+h1 {
+text-align: center;
+text-decoration: underline overline #6B8E23;
+}
+
+h1:hover:after{
+
+content:' hehehe';
+
+}
+
+img{
+height:350px;
+float: right;
+margin-right:15px;
+border: 4mm ridge Sienna;
+}
+
+body{
+background-color:Aquamarine;
+}
+
+p{
+color:Salmon;
+font-size:18px;
+}
+
+p:hover{
+color:Red;
+font-size:20px;
+
+}
+
+#elec{
+background-color:RebeccaPurple;
+
+}
+
+#einstein{
+background-color:PapayaWhip;
+}
+#transparent{
+position:absolute;
+right:8px;
+top:105px
+opacity: 1;
+}
+
+#transparent:hover{
+opacity: 0.3;
+
+}
